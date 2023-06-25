@@ -1,0 +1,11 @@
+npm create vite@latest
+-> . to use the difault folder as a project name
+-> javascript
+
+npm install
+->to install all the necessary packages
+
+npm run dev 
+-> to run npm 
+
+npm install bootstrap
